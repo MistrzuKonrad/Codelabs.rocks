@@ -23,5 +23,8 @@ Tests include happy path and negative paths
 * in terminal type "npx cypress open"
 * run the selected test in Cypress
 
+## All test cases are described with the link provided
+https://docs.google.com/spreadsheets/d/1c9Sx_TTSTKvQzlOrNF4nPK-7xsACHtQ-didDkVVDrj0/edit?usp=sharing
+
 ## Authors
 Konrad Mamla
